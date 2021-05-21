@@ -3,4 +3,4 @@
 
 流程图如下
 
-![bio-chatroom-sequence-diagram](/Users/charliezhang/Documents/bio-chatroom/bio-chatroom-sequence-diagram.png)
+![image](https://github.com/charliezhang6/bio-chatroom/blob/main/bio-chatroom-sequence-diagram.png)
