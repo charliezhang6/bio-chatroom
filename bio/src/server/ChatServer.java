@@ -79,8 +79,6 @@ public class ChatServer {
     }
 
     public boolean readyToQuit(String msg) {
-        if(msg.equals(QUIT)){
-            return true;
-        }else {return false;}
+        return msg.equals(QUIT);
     }
 }
